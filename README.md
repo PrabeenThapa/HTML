@@ -1,1 +1,1 @@
-# HTML
+Here is a compilation of everything I learned while revising HTML5.
